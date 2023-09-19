@@ -1,9 +1,11 @@
 import styled from "styled-components";
 export const Container = styled.div`
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
+  margin: auto;
   & > div {
-    height: 50vh;
-    width: 50vw;
+    height: 90vh;
+    width: 90vw;
+    margin: auto;
   }
 `;

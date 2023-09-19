@@ -16,21 +16,30 @@ const theme = createTheme({
       fontSize: "2.6rem",
     },
     h2: {
+      fontFamily: "Oxygen, sans-serif",
       fontWeight: 700,
       fontSize: "2.4rem",
     },
     h3: {
+      fontFamily: "Oxygen, sans-serif",
       fontWeight: 700,
-      fontSize: "2.2rem",
+      fontSize: "2.0rem",
     },
     h4: {
+      fontFamily: "Oxygen, sans-serif",
       fontWeight: 700,
       fontSize: "1.75rem",
     },
     h5: {
-      fontWeight: 500,
+      fontFamily: "Oxygen, sans-serif",
+      fontSize: "1.17rem",
+      fontWeight: 700,
     },
     h6: {
+      fontWeight: 500,
+    },
+    body2: {
+      fontSize: "0.8rem",
       fontWeight: 500,
     },
   },
